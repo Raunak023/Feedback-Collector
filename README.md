@@ -38,8 +38,8 @@ feedback-collector/
 ### Backend
 ```bash
 cd backend
-npm install
 node server.js
+
 ```
 
 Backend runs on:
@@ -50,8 +50,8 @@ http://localhost:5000
 ### Frontend
 ```bash
 cd frontend
-npm install
 npm start
+
 ```
 
 Frontend runs on:
