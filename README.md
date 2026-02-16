@@ -6,7 +6,7 @@ A full-stack Feedback Collection application built using:
 - Backend: Node.js + Express
 - REST API Architecture
 
-## 📌 Features
+## 💻 Features
 
 - Submit feedback (Name, Email, Message)
 - View all feedback entries
