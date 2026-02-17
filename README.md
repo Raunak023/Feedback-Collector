@@ -6,7 +6,7 @@ A full-stack Feedback Collection application built using:
 - Backend: Node.js + Express
 - REST API Architecture
 
-## 💻 Features
+##  Features
 
 - Submit feedback (Name, Email, Message)
 - View all feedback entries
@@ -16,7 +16,7 @@ A full-stack Feedback Collection application built using:
 - Service layer implemented (FeedbackService)
 - Proper folder structure (controllers, routes, services)
 
-## 🏗 Project Structure
+##  Project Structure
 
 feedback-collector/
 │
@@ -33,7 +33,7 @@ feedback-collector/
 │
 └── .gitignore
 
-## 🚀 How to Run
+##  How to Run
 
 ### Backend
 ```bash
